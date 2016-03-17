@@ -1,0 +1,243 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Lantinghei SC","Microsoft Yahei",黑体,Arial,Helvetica,sans-serif;
+    font-style: normal;
+
+}
+
+li,ul,img,a,div{
+    border: 0;
+    list-style: none;
+}
+
+div{
+    display: block;
+}
+
+.ue-bar-a{
+    color: darkgray;
+    text-decoration: none;
+    outline: none;
+}
+ .ue-bar-b{
+    color: #FFFFFF;
+    text-decoration: none;
+    outline: none;
+}
+ 
+
+em{
+    font-weight: normal;
+}
+
+.ue-bar{
+    background-color: #333333;
+}
+
+.ue-bar-warp{
+    width: 100%;
+    height: 50px;
+    margin: 0px 0px;
+    overflow: hidden;
+    position: relative;
+}
+
+.ue-bar-logo{
+    width: auto;
+    height: auto;
+    float: left;
+    margin: 0px 0px;
+    padding-left: 50px;
+    padding-bottom: 0px;
+}
+
+.ue-bar-logo a{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+}
+
+.ue-bar-nav{
+    height: 50px;
+    float: right;
+}
+
+.ue-bar-nav li{
+    height: 50px;
+    float: left;
+    margin-right: 20px;
+}
+
+.ue-bar-nav li *{   
+    font-size: 10px;
+    display: inline-block;
+    line-height: 17px;
+    vertical-align: top;
+}
+
+.ue-bar-nav li a{
+    height: 22px;
+    line-height: 22px;
+    padding: 20px 8px;
+}
+
+
+
+body{
+	background-color: darkgray;
+	width: 100%;
+	height:auto;
+	margin: 0px auto;
+	
+}
+.text{
+	color: darkgray;
+} 
+.bodyone{
+	background-color: #FFFFFF;
+	margin: 20px auto;
+	padding: 20px;
+	width: 93%;
+	height: 700px;
+}
+.lianjie1 a:link{
+	color:#FF0000;
+ text-decoration:underline;
+}
+.bodytwo{
+	background-color: #FFFFFF;
+	margin: 20px auto;
+	padding: 20px;
+	width: 93%;
+	height: 680px;
+}
+.bodythree{
+	background-color: #FFFFFF;
+	margin: 20px auto;
+	padding: 20px;
+	width: 93%;
+	height: 1700px;
+}
+.image{
+	border: 1px solid darkgray;
+	width: auto;
+	height: auto;
+	float: left;
+	text-align: center;
+	margin: 10px 800px 5px 50px;
+
+}
+
+img{
+	margin: 10px;
+}
+
+.text2{
+	font-size: 14px;
+	margin-top: 4px;
+	margin-bottom:1px; 
+}
+
+.bodyfour{
+	background-color: #FFFFFF;
+	margin: 20px auto;
+	padding: 20px;
+	width: 93%;
+	height: 450px;
+}
+
+#tb{
+	border-collapse: collapse;
+	width: 1200px;
+
+}
+#tb td,#tb th{
+	border: 1px solid darkgray;
+	padding: 5px; 
+}
+#tb th{
+	text-align: left;
+	background-color: black;
+	color: #FFFFFF;
+}
+
+/* #tb tr.alt td{
+	color: black;
+	background-color: aquamarine;
+} */
+.bodyfive{
+	background-color: #FFFFFF;
+	margin: 20px auto;
+	padding: 20px;
+	width: 93%;
+	height: 530px;
+}
+.fiveone{
+	margin-left: 300px;
+	padding: 0px;
+	width: 90%;
+	height: auto;
+}
+.fivetwo{
+	margin-left: 430px;
+	padding: 0px;
+	width: 90%;
+	height: auto;
+
+}
+.fivethree{
+	margin-left: 330px;
+	padding: 0px;
+	width: 90%;
+	height: auto;
+}
+.fivefour{
+	margin-left: 293px;
+	padding: 6px;
+	width: 90%;
+	height: auto;
+}
+.fivefive{
+	margin-left: 378px;
+	padding: 0px;
+	width: 90%;
+	height: auto;
+}
+.fivesix{
+	margin-left: 350px;
+	padding: 0px;
+	width: 90%;
+	height: auto;
+}
+
+.fiveseven{
+
+	margin-top:30px;
+	float: center;
+	position: relative;
+	
+}
+.fiveseven  form input {
+	width: 1250px;
+	height: 40px;
+	border-radius: 30px;
+	background-color: #3232cd;
+	color: #FFFFFF;
+	font-size: 15px;
+}
+
+.textarea{
+	font-size: 15px;
+	font-weight:bold;
+}
+
+
+.bodysix{
+	background-color: #000000;
+	margin-top: 30px;
+	padding: 20px;
+	width: 97%;
+	height: 25px;
+}
